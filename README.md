@@ -32,10 +32,10 @@ git clone https://github.com/v3laDev/SAMPTracker.git
 cd SAMPTracker
 ```
 
-## Install dependencies
+## Install with NPM
 Make sure you have Node.js installed. Then, install the project dependencies:
 ```
-npm install
+npm install samptracker
 ```
 
 ## Usage
